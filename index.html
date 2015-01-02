@@ -1,23 +1,22 @@
 ---
 layout: default
+title: Home
 ---
 
-<div class="home">
+<div class="post"><br>
 
-  <h1 class="page-heading">Posts</h1>
+  <div align="center"><img src="img/Austin_TMA.jpg" width="500px"/></div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <br>
+  I am computational biologist and medical student primarily interested in the evolution of infectious diseases. Specifically, I am interested in identifying and quantifying the forces driving the evolution of viruses in the human population. In addition, I am interested in finding ways to predict the molecular evolution and population dynamics of human viruses with an eye to protein structure and computational biophysical techniques. I do largely computational biology with some intermittent (very intermittent these days) experimental protein structure projects. For my MS research, I crystallized and solved the structure of C2 domains in synaptotagmin with calcium in the binding pocket. For my PhD research, I implemented molecular evolutionary models of protein evolution and used them to show that simple protein geometry is a major determinant of influenza virus evolution. My current work is focused on identifying constraints that will predict further evolution of the influenza hemagglutinin. In addition, I do a lot of work to understand how relatively simple energy function can predict the long term (billions of years) evolutionary dynamics of protein-protein interactions.<br>
+  <br>
+  I have a number of on going collaborations in everything from studying flu and ebola virus evolution to testing the effects of individual point mutations via molecular dynamics to analyzing clinical biomarkers and outcomes. Also, I am open to virtually any new computational, statistical, theoretical, or even philosophical projects.  If you have any questions about my work or I can be of any help, please let me know. <br>
+  <br>
+  To find out about my research interests, and the projects I am currently working on, visit the research page.<br>
+  <br>
+  Follow me on twitter <a href="https://twitter.com/austingmeyer">@austingmeyer</a> <br>
+  <br>
+  <h2 class="post">Current Affliation</h2>
+  I am a member of the lab of Dr. <a href="http://wilkelab.org/">Claus Wilke</a> at the University of Texas at Austin.<br>
 
 </div>
