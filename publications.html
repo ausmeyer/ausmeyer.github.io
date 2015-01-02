@@ -12,7 +12,7 @@ link-years:
 
 <div class="post">
 
-  <h1 class="post-title">Publications</h1>
+  <h1 class="post-title">Peer Reviewed</h1>
   
   {% comment %} Navigation shortcut. {% endcomment %}  
   <p>
@@ -22,11 +22,11 @@ link-years:
   </p>
 
   {% comment %} Count publications backwards. {% endcomment %}  
-  {% assign count = site.data.publications.size %}
+  {% assign count = site.data.peer_review.size %}
   
   <ul class="pub-list">
     {% assign year = "0000" %}
-    {% for pub in site.data.publications %}
+    {% for pub in site.data.peer_review %}
       {% if year != pub.year %}
         {% assign year = pub.year %}
         <a class="anchor" id="{{ year }}">{{ year | capitalize }}</a>
@@ -34,6 +34,36 @@ link-years:
       {% endif %}
       <li>
         {{ count | minus: forloop.index0 }}. 
+        {% if pub.year == "Before 2012" %}
+          {{ pub.author }}. {{ pub.title }}. {{ pub.ref }}.<br/>
+        {% elsif pub.year != "Before 2012" %}
+          {{ pub.author }} ({{ pub.year }}). {{ pub.title }}. {{ pub.ref }}.<br/>
+        {% endif %}
+        {% if pub.doi %}
+          doi: <a href="http://dx.doi.org/{{ pub.doi }}">{{pub.doi}}</a>&nbsp;&nbsp; 
+        {% endif %}
+        {% if pub.pmcid %}
+          pmcid: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{ pub.pmcid }}">{{pub.pmcid}}</a>&nbsp;&nbsp; 
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="post"><br>
+  <a class="anchor" id="Opinion"></a>
+  <h1 class="post-title">Opinion</h1>
+  {% assign opinion_count = site.data.opinion.size %}
+  
+  <ul class="pub-list">
+    {% assign year = "0000" %}
+    {% for pub in site.data.opinion %}
+      {% if year != pub.year %}
+        {% assign year = pub.year %}
+        <li class="pub-year">{{ year | capitalize }}</li>
+      {% endif %}
+      <li>
+        {{ opinion_count | minus: forloop.index0 }}. 
         {{ pub.author }} ({{ pub.year }}). {{ pub.title }}. {{ pub.ref }}.<br/>
         {% if pub.doi %}
           doi: <a href="http://dx.doi.org/{{ pub.doi }}">{{pub.doi}}</a>&nbsp;&nbsp; 
@@ -44,4 +74,5 @@ link-years:
       </li>
     {% endfor %}
   </ul>
+  
 </div>

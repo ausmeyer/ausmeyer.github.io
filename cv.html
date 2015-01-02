@@ -1,0 +1,96 @@
+---
+layout: default
+title: CV
+permalink: /cv/
+---
+
+<div class="post"><br>
+  <a class="anchor" id="Education"></a>
+  <h1 class="post-title">Education</h1>
+ 2017 &nbsp;&nbsp;&nbsp;&nbsp;  M.D., Texas Tech University Health Sciences Center (Expected)    <br>
+ 2014 &nbsp;&nbsp;&nbsp;&nbsp;  Ph.D. Biochemistry, University of Texas at Austin                <br>
+ 2010 &nbsp;&nbsp;&nbsp;&nbsp;  M.S. Biotechnology, Texas Tech University Health Sciences Center <br>
+ 2008 &nbsp;&nbsp;&nbsp;&nbsp;  B.S. Physics, Texas Tech University                              <br>
+ 2008 &nbsp;&nbsp;&nbsp;&nbsp;  B.A. Philosophy, Texas Tech University                           <br>
+</div>
+
+<div class="post"><br>
+  <a class="anchor" id="Funding"></a>
+  <h1 class="post-title">Funding</h1>
+  2013 &nbsp;&nbsp;&nbsp;&nbsp;  BeWise Immunize Grant, Texas Medical Association                                                <br>
+  2010 &nbsp;&nbsp;&nbsp;&nbsp;  Recruitment Fellowship, Institute for Cell and Molecular Biology, University of Texas at Austin <br>
+  2009 &nbsp;&nbsp;&nbsp;&nbsp;  Research Fellowship, Center for Cardiovascular Disease and Stroke, TTUHSC                       <br>
+  2008 &nbsp;&nbsp;&nbsp;&nbsp;  CH Foundation Scholarship, TTUHSC                                                               <br>
+</div>
+
+<div class="post"><br>
+  <a class="anchor" id="Teaching Experience"></a>
+  <h1 class="post-title">Teaching Experience</h1>
+  2014 &nbsp;&nbsp;&nbsp;&nbsp;  Teaching Assistant - Anatomy and Histology Lab, University of Texas at Austin              <br>
+  2012 &nbsp;&nbsp;&nbsp;&nbsp;  Teaching Assistant - Computational Biology, University of Texas at Austin                  <br>
+  2008 &nbsp;&nbsp;&nbsp;&nbsp;  Teaching Assistant - Introduction to Electricity and Magnetism Lab, Texas Tech University  <br>
+</div>
+
+<div class="post"><br>
+  <a class="anchor" id="Service"></a>
+  <h1 class="post-title">Service</h1>
+  2013-15 &nbsp;&nbsp;&nbsp;&nbsp;  Council on Legislation, Texas Medical Association.                   <br>
+  2013-14 &nbsp;&nbsp;&nbsp;&nbsp;  Committee on Bioethics and Humanities, American Medical Association. <br>
+  2013-14 &nbsp;&nbsp;&nbsp;&nbsp;  Delegate to the Texas Medical Association, TTUHSC.                   <br>
+  2013-14 &nbsp;&nbsp;&nbsp;&nbsp;  Lubbock Free Clinic Leadership Team, TTUHSC.                         <br>
+  2011-14 &nbsp;&nbsp;&nbsp;&nbsp;  Mensa Testing Coordinator, Lonestar Mensa.                           <br>
+  <br>
+  Reviewer for:    PLOS Computational Biology, Physical Review X, and ALife
+</div>
+
+<div class="post"><br>
+  <a class="anchor" id="Political Work"></a>
+  <h1 class="post-title">Political Work</h1>
+  2014 &nbsp;&nbsp;&nbsp;&nbsp;  AMA Policy Resolution, <i>Advance Directives During Pregnancy</i>. American Medical Association.<br>
+  2014 &nbsp;&nbsp;&nbsp;&nbsp;  TMA Policy Resolution, <i>Durability of Advance Directives</i>. TexMed Conference.<br>
+  2013 &nbsp;&nbsp;&nbsp;&nbsp;  First Tuesday at The Capitol, Lobbying for the Texas Medical Association.<br>
+</div>
+
+<div class="post"><br>
+  <a class="anchor" id="Invited Talks"></a>
+  <h1 class="post-title">Invited Talks</h1>
+  {% assign count = site.data.invited_talks.size %}
+  
+  <ul class="pub-list">
+    {% assign year = "0000" %}
+    {% for pub in site.data.invited_talks %}
+      {% if year != pub.year %}
+        {% assign year = pub.year %}
+        <li class="pub-year">{{ year | capitalize }}</li>
+      {% endif %}
+      <li>
+        {{ count | minus: forloop.index0 }}. 
+        {{ pub.author }} ({{ pub.year }}). {{ pub.title }}. {{ pub.location }}.<br/>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="post"><br>
+  <a class="anchor" id="Poster Presentations"></a>
+  <h1 class="post-title">Poster Presentations</h1>
+  {% assign count = site.data.poster_presentations.size %}
+  
+  <ul class="pub-list">
+    {% assign year = "0000" %}
+    {% for pub in site.data.poster_presentations %}
+      {% if year != pub.year %}
+        {% assign year = pub.year %}
+        <li class="pub-year">{{ year | capitalize }}</li>
+      {% endif %}
+      <li>
+        {{ count | minus: forloop.index0 }}.
+        {% if pub.note != null %}
+          {{ pub.author }} ({{ pub.year }}). {{ pub.title }}. {{ pub.location }}. <b>{{ pub.note }}</b> <br/>
+        {% else %}
+          {{ pub.author }} ({{ pub.year }}). {{ pub.title }}. {{ pub.location }}.<br/>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
