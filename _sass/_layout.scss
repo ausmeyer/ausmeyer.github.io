@@ -9,6 +9,16 @@ body, html {
     height: 100%;
 }
 
+#headline-empty {
+    height: 100%;
+}
+
+#about-block{
+    background: $grey-color;
+    color: #ffffff;
+}
+
+
 /**
  * Anchors that correct for site header
  */
