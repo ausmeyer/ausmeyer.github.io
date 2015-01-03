@@ -145,8 +145,7 @@ a.anchor {
  * Site footer
  */
 .site-footer {
-    height: 100%;
-    /*border-top: 1px solid $grey-color-light;*/
+    border-top: 1px solid $grey-color-light;
     background-color: $grey-color-dark;
     color: $text-color-light;
     padding: $spacing-unit 0;
