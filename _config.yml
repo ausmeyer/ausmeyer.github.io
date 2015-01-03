@@ -2,12 +2,13 @@
 title: Austin Meyer, PhD
 email: austin.g.meyer@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
+  Postdoctoral Fellow<br>
   Department of Integrative Biology<br>
   Institute for Cellular and Molecular Biology<br>
   2500 Speedway, A4800<br>
   Room: MBB 3.232
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://meyerlab.org" # the base hostname & protocol for your site
+url: "http://www.meyerlab.org" # the base hostname & protocol for your site
 twitter_username: austingmeyer
 github_username:  ausmeyer
 
