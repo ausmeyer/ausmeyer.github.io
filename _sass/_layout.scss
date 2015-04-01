@@ -294,8 +294,11 @@ a.anchor {
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
+    margin-bottom: 0;
 
+    padding-left: 60px;
+    text-indent: -60px;
+    
     h2 {
         font-size: 28px;
 
@@ -314,7 +317,7 @@ a.anchor {
 
     h4 {
         font-size: 20px;
-
+        
         @include media-query($on-laptop) {
             font-size: 18px;
         }
