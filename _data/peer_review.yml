@@ -3,16 +3,17 @@
   title: Lack of sequence divergence is a major limitation in quantifying evolution during a viral outbreak
   ref: "(Under 1st Review at Molecular Biology and Evolution)"
 
-- author: A. H. Kachroo, J. M. Laurent, C. M. Yellman, A. G. Meyer, C. O. Wilke, and E. M. Marcotte
-  year: 2015
-  title: Systematic humanization of yeast genes reveals conserved functions and genetic modularity
-  ref: "(Under 2nd Review at Science)"
-
 - author: A. G. Meyer and C. O. Wilke
   year: 2015
   title: Geometric constraints dominate the antigenic evolution of influenza H3N2 hemagglutinin
   ref: "(Under 2nd Review at PLOS Pathogens)"
   doi: 10.1101/014183
+  
+- author: A. H. Kachroo, J. M. Laurent, C. M. Yellman, A. G. Meyer, C. O. Wilke, and E. M. Marcotte
+  year: 2015
+  title: Systematic humanization of yeast genes reveals conserved functions and genetic modularity
+  ref: "Science (in press)"
+  
   
 - author: V. Sridhara, A. G. Meyer, P. Rai, J. E. Barrick, P. Ravikumar, D. Segrè, C. O. Wilke
   year: 2014
