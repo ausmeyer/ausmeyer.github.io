@@ -7,7 +7,7 @@ link-years:
   - 2014
   - 2013
   - 2012
-  - pre-2012
+  - Before 2012
   - Working
   - Opinion
 ---
@@ -36,9 +36,9 @@ link-years:
       {% endif %}
       <li>
         {{ count | minus: forloop.index0 }}. 
-        {% if pub.year == "pre-2012" %}
+        {% if pub.year == "Before 2012" %}
           {{ pub.author }}. {{ pub.title }}. {{ pub.ref }}.<br/>
-        {% elsif pub.year != "pre-2012" %}
+        {% elsif pub.year != "Before 2012" %}
           {{ pub.author }} ({{ pub.year }}). {{ pub.title }}. {{ pub.ref }}.<br/>
         {% endif %}
         {% if pub.doi %}
