@@ -45,10 +45,10 @@ link-years:
           doi: <a href="http://dx.doi.org/{{ pub.doi }}">{{pub.doi}}</a>&nbsp;&nbsp; 
         {% endif %}
         {% if pub.pmcid %}
-          pmcid: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{ pub.pmcid }}">{{pub.pmcid}}</a>&nbsp;&nbsp; 
+          <br/>pmcid: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{ pub.pmcid }}">{{pub.pmcid}}</a>&nbsp;&nbsp; 
         {% endif %}
         {% if pub.link %}
-          links: <a href="{{ pub.link }}">{{pub.text}}</a>&nbsp;&nbsp; 
+          <br/>links: <a href="{{ pub.link }}">{{pub.text}}</a>&nbsp;&nbsp; 
         {% endif %}
       </li>
     {% endfor %}
@@ -84,7 +84,7 @@ link-years:
           doi: <a href="http://dx.doi.org/{{ pub.doi }}">{{pub.doi}}</a>&nbsp;&nbsp; 
         {% endif %}
         {% if pub.pmcid %}
-          pmcid: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{ pub.pmcid }}">{{pub.pmcid}}</a>&nbsp;&nbsp; 
+          <br/>pmcid: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{ pub.pmcid }}">{{pub.pmcid}}</a>&nbsp;&nbsp; 
         {% endif %}
       </li>
     {% endfor %}
