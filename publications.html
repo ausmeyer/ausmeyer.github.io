@@ -48,7 +48,7 @@ link-years:
           pmcid: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{ pub.pmcid }}">{{pub.pmcid}}</a>&nbsp;&nbsp; 
         {% endif %}
         {% if pub.link %}
-          pmcid: <a href="{{ pub.link }}">{{pub.text}}</a>&nbsp;&nbsp; 
+          links: <a href="{{ pub.link }}">{{pub.text}}</a>&nbsp;&nbsp; 
         {% endif %}
       </li>
     {% endfor %}
