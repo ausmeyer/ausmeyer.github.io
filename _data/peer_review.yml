@@ -14,10 +14,11 @@
   ref: "(Under Review at PLOS Pathogens)"
   doi: 10.1101/014183
   
-#- author: A. H. Kachroo, J. M. Laurent, C. M. Yellman, A. G. Meyer, C. O. Wilke, and E. M. Marcotte
-#  year: 2015
-#  title: Systematic humanization of yeast genes reveals conserved functions and genetic modularity
-#  ref: "Science (in press)"
+- author: A. H. Kachroo, J. M. Laurent, C. M. Yellman, A. G. Meyer, C. O. Wilke, and E. M. Marcotte
+  year: 2015
+  title: Systematic humanization of yeast genes reveals conserved functions and genetic modularity
+  ref: "Science 348:921-925"
+  doi: 10.1126/science.aaa0769
   
 - author: V. Sridhara, A. G. Meyer, P. Rai, J. E. Barrick, P. Ravikumar, D. Segrè, C. O. Wilke
   year: 2014
