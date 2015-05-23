@@ -37,9 +37,9 @@ link-years:
       <li>
         {{ count | minus: forloop.index0 }}. 
         {% if pub.year == "Before 2012" %}
-          {{ pub.author }}. {{ pub.title }}. {{ pub.ref }}.<br/>
+          {{ pub.author }}. {{ pub.title }}. {{ pub.ref }}.
         {% elsif pub.year != "Before 2012" %}
-          {{ pub.author }} ({{ pub.year }}). {{ pub.title }}. {{ pub.ref }}.<br/>
+          {{ pub.author }} ({{ pub.year }}). {{ pub.title }}. {{ pub.ref }}.
         {% endif %}
         {% if pub.doi %}
           <br/>doi: <a href="http://dx.doi.org/{{ pub.doi }}">{{pub.doi}}</a>&nbsp;&nbsp; 
@@ -79,7 +79,7 @@ link-years:
       {% endif %}
       <li>
         {{ opinion_count | minus: forloop.index0 }}. 
-        {{ pub.author }} ({{ pub.year }}). {{ pub.title }}. {{ pub.ref }}.<br/>
+        {{ pub.author }} ({{ pub.year }}). {{ pub.title }}. {{ pub.ref }}.
         {% if pub.doi %}
           <br/>doi: <a href="http://dx.doi.org/{{ pub.doi }}">{{pub.doi}}</a>&nbsp;&nbsp; 
         {% endif %}
