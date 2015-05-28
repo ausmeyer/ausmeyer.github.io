@@ -1,7 +1,7 @@
 - author: S. A. Kerr, E. L. Jackson, O. I. Lungu, A. G. Meyer, A Demogines, A. D. Ellington, G. Georgiou, C. O. Wilke, and S. L. Sawyer
   year: 2015
   title: Computational and functional analysis of the GP1-TfR1 interface reveals host range trade-offs in New-World arenaviruses
-  ref: "(Under Review at PLOS Pathogens)"
+  ref: "(Under Review)"
 
 - author: A. G. Meyer, S. J. Spielman, T. Bedford, and C. O. Wilke
   year: 2015
@@ -11,8 +11,8 @@
 - author: A. G. Meyer and C. O. Wilke
   year: 2015
   title: Geometric constraints dominate the antigenic evolution of influenza H3N2 hemagglutinin
-  ref: "(Under Review at PLOS Pathogens)"
-  doi: 10.1101/014183
+  ref: "PLOS Pathogens 11:e1004940"
+  doi: 10.1371/journal.ppat.1004940
   
 - author: A. H. Kachroo, J. M. Laurent, C. M. Yellman, A. G. Meyer, C. O. Wilke, and E. M. Marcotte
   year: 2015
