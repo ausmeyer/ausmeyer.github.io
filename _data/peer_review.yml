@@ -1,20 +1,20 @@
-- author: S. A. Kerr, E. L. Jackson, O. I. Lungu, A. G. Meyer, A Demogines, A. D. Ellington, G. Georgiou, C. O. Wilke, and S. L. Sawyer
+- author: S. A. Kerr, E. L. Jackson, O. I. Lungu, <b>A. G. Meyer</b>, A Demogines, A. D. Ellington, G. Georgiou, C. O. Wilke, S. L. Sawyer
   year: 2015
   title: Computational and functional analysis of the GP1-TfR1 interface reveals host range trade-offs in New-World arenaviruses
   ref: "(Under Review)"
 
-- author: A. G. Meyer, S. J. Spielman, T. Bedford, and C. O. Wilke
+- author: <b>A. G. Meyer</b>, S. J. Spielman, T. Bedford, C. O. Wilke
   year: 2015
   title: Lack of sequence divergence is a major limitation in quantifying evolution during a viral outbreak
   ref: "(Under Review at Virus Evolution)"
 
-- author: A. G. Meyer and C. O. Wilke
+- author: <b>A. G. Meyer</b> and C. O. Wilke
   year: 2015
   title: Geometric constraints dominate the antigenic evolution of influenza H3N2 hemagglutinin
   ref: "PLOS Pathogens 11:e1004940"
   doi: 10.1371/journal.ppat.1004940
   
-- author: A. H. Kachroo, J. M. Laurent, C. M. Yellman, A. G. Meyer, C. O. Wilke, and E. M. Marcotte
+- author: A. H. Kachroo, J. M. Laurent, C. M. Yellman, <b>A. G. Meyer</b>, C. O. Wilke, E. M. Marcotte
   year: 2015
   title: Systematic humanization of yeast genes reveals conserved functions and genetic modularity
   ref: "Science 348:921-925"
@@ -22,86 +22,86 @@
   link: "https://github.com/wilkelab/wilkelab.github.io/blob/master/_posts/2015-05-21-Humanization-of-yeast-genes.md"
   text: "Press coverage by NPR, NBC News, Washington Post, Discovery News, Phys.org, The Scientist, Science Daily, Science News, Reddit, and others"
   
-- author: V. Sridhara, A. G. Meyer, P. Rai, J. E. Barrick, P. Ravikumar, D. Segrè, C. O. Wilke
+- author: V. Sridhara, <b>A. G. Meyer</b>, P. Rai, J. E. Barrick, P. Ravikumar, D. Segrè, C. O. Wilke
   year: 2014
   title: Predicting growth conditions from internal metabolic fluxes in an in-silico model of E. coli
   ref: "PLOS ONE 9:e114608"
   doi: 10.1371/journal.pone.0114608  
 
-- author: J. E. Barrick, G. Colburn, D. E. Deatherage, C. C. Traverse, M. D. Strand, J. J Borges, D. D. Knoester, A. Reba, A. G. Meyer
+- author: J. E. Barrick, G. Colburn, D. E. Deatherage, C. C. Traverse, M. D. Strand, J. J Borges, D. D. Knoester, A. Reba, <b>A. G. Meyer</b>
   year: 2014
   title: Identifying structural variation in haploid microbial genomes from short-read re-sequencing data using breseq
   ref: "BMC Genomics 15:1039"
   doi: 10.1186/1471-2164-15-1039
   
-- author: A. Shahmoradi, D. K. Sydykova, S. J. Spielman, E. L. Jackson, E. T. Dawson, A. G. Meyer, C. O. Wilke
+- author: A. Shahmoradi, D. K. Sydykova, S. J. Spielman, E. L. Jackson, E. T. Dawson, <b>A. G. Meyer</b>, C. O. Wilke
   year: 2014
   title: "Predicting evolutionary site variability from structure in viral proteins: buriedness, packing, flexibility, and design"
   ref: "J. Mol. Evol. 79:130–142"
   doi: 10.1007/s00239-014-9644-x
   
-- author: A. G. Meyer​, S. L. Sawyer, A. D. Ellington, C. O. Wilke
+- author: <b>A. G. Meyer</b>, S. L. Sawyer, A. D. Ellington, C. O. Wilke
   year: 2014
   title: Analyzing Machupo virus-receptor binding by molecular dynamics simulations
   ref: "PeerJ 2:e266"
   doi: 10.7717/peerj.266
   pmcid: PMC3940602
   
-- author: K. Fuson, A. Rice, R. Mahling, A. Snow, K. Nayak, P. Shanbhogue, A. G. Meyer, G. Redpath, A. Hinderliter, S. T. Cooper, R. B. Sutton
+- author: K. Fuson, A. Rice, R. Mahling, A. Snow, K. Nayak, P. Shanbhogue, <b>A. G. Meyer</b>, G. Redpath, A. Hinderliter, S. T. Cooper, R. B. Sutton
   year: 2014
   title: Alternate splicing of dysferlin C2A confers Ca2+-dependent and Ca2+-independent binding for membrane repair
   ref: "Structure 22:104-115"
   doi: 10.1016/j.str.2013.10.001
   pmcid: PMC24239457
   
-- author: M. Z. Tien, A. G. Meyer, D. K. Sydykova, S. J. Spielman, C. O. Wilke
+- author: M. Z. Tien, <b>A. G. Meyer</b>, D. K. Sydykova, S. J. Spielman, C. O. Wilke
   year: 2013
   title: Maximum allowed solvent accessibilites of residues in proteins
   ref: "PLOS ONE 8:e80635"
   doi: 10.1371/journal.pone.0080635
   pmcid: PMC3836772
   
-- author: M. Z. Tien, D. K. Sydykova, A. G. Meyer, C. O. Wilke
+- author: M. Z. Tien, D. K. Sydykova, <b>A. G. Meyer</b>, C. O. Wilke
   year: 2013
   title: "PeptideBuilder: A simple Python library to generate model peptides"
   ref: "PeerJ 1:e80"
   doi: 10.7717/peerj.80
   pmcid: PMC3661355
   
-- author: A. G. Meyer, E. T. Dawson, C. O. Wilke
+- author: <b>A. G. Meyer</b>, E. T. Dawson, C. O. Wilke
   year: 2013
   title: Cross-species comparison of site-specific evolutionary-rate variation in influenza haemagglutinin
   ref: "Phil. Trans. R. Soc. B. 368:20120334"
   doi: 10.1098/rstb.2012.0334
   pmcid: PMC3678335
   
-- author: A. G. Meyer, C. O. Wilke
+- author: <b>A. G. Meyer</b>, C. O. Wilke
   year: 2013
   title: Integrating sequence variation and protein structure to identify sites under selection
   ref: "Mol. Biol. Evol. 30:36–44"
   doi: 10.1093/molbev/mss217
   pmcid: PMC3525147
   
-- author: M. P. Scherrer, A. G. Meyer, C. O. Wilke
+- author: M. P. Scherrer, <b>A. G. Meyer</b>, C. O. Wilke
   year: 2012
   title: Modeling coding-sequence evolution within the context of residue solvent accessibility
   ref: "BMC Evol. Biol. 12:179"
   doi: 10.1186/1471-2148-12-179
   pmcid: PMC3527230
   
-- author: A. Reba, A. G. Meyer and J. E. Barrick
+- author: A. Reba, <b>A. G. Meyer</b>, J. E. Barrick
   year: 2012
   title: Computational tests of a thermal cycling strategy to isolate more complex functional nucleic acid motifs from random sequence pools by in vitro selection
   ref: "Artificial Life 13:473–480"
   doi: 10.7551/978-0-262-31050-5-ch062
   
-- author: Y. G. Celebi, R. L. Lichti, H. N. Bani-Salameh, A. G. Meyer, B. R. Carroll, J. E. Vernon, P. J. C. King, S. F. J. Cox
+- author: Y. G. Celebi, R. L. Lichti, H. N. Bani-Salameh, <b>A. G. Meyer</b>, B. R. Carroll, J. E. Vernon, P. J. C. King, S. F. J. Cox
   year: Before 2012
   title: Muonium transitions in 4H silicon carbide
   ref: "Physica B 404:845-884"
   doi: 10.1016/j.physb.2008.11.155
   
-- author: H. N. Bani-Salameh, A. G. Meyer, B. R. Carroll, R. L. Lichti, K. H. Chow, P. J. C. King, S. F. J. Cox
+- author: H. N. Bani-Salameh, <b>A. G. Meyer</b>, B. R. Carroll, R. L. Lichti, K. H. Chow, P. J. C. King, S. F. J. Cox
   year: Before 2012
   title: Charge-state transitions of muonium in 6H silicon carbide
   ref: "Physica B 401-402:631-634"
