@@ -1,0 +1,67 @@
+---
+layout: default
+title: meyerlab/research
+permalink: /research/
+---
+
+<div class="post"><br>
+  Here is a word cloud generated from my papers over the last two years. It does a decent job explaining the kind of work I do and the kinds of techniques I prefer.<br><br>
+  <div style="display:block;text-align:center"><img src="../img/Cloud_1.png" width="500px"/></div>
+</div>
+
+<div class="post"><br> 
+  <h1 class="post-title">Science</h1>
+  I am interested in developing wide spread predictive power in biology and bioengineering. I want to leverage the rapid technical advances in genomic sequencing, systems, and synthetic biology to develop the kind of far reaching predictive power seen only in physics today. This necessarily involves working at the intersection of two traditionally disparate fields: theoretical/computational biology and experimental molecular biology.<br>
+  <br>
+  To that end, I generally use a biophysical approach to complement bioinformatic, genomic, and other computational tools to understand organismal evolutionary constraints at the molecular level. Into the future, I would like to use this new found predictive power to technological ends.<br>
+</div>
+
+<div class="post"><br>
+  <h1 class="post-title">Software</h1>
+  In addition to my scientific research interests, I am interested in scientific software development.  My language base covers Python, R, Bash, and C++ as well as some intermittent Mathematica, Matlab, and Tcl/Tk.  In addition, the Wilke lab maintains a public git repository of the one-off tools we've produced for various projects... <a href="https://github.com/clauswilke/WilkeLabProteinEvolutionToolbox">https://github.com/clauswilke/WilkeLabProteinEvolutionToolbox</a>.<br>
+  <br>
+  Beware, it is not a complete listing of all the scripts we've produced.  We also have a tutorials page that covers some of the basics... <a href="http://wilke.openwetware.org/Tutorials.html">http://wilke.openwetware.org/Tutorials.html</a>.  I have yet to fill out the structural biology segments, but that will happen eventually.<br>
+  <br>
+  If there is any piece of software that seems related to what we do but is not in the repository I may have it laying around; don't be afraid to ask.<br>
+</div>
+
+<div class="post"><br>
+  <h1 class="post-title">Current Work</h1>
+  <b>Geometrical constraints predict adaptive evolution in influenza hemagglutinin</b><br>
+  This work is detailed in a manuscript currently under review at <i>PLOS Pathogens</i>.  I will post more details here as it becomes possible.<br>
+  <!--  <b>Identifying evolutionary constraints with a biochemically meaningful protein model</b><br> -->
+  <!--  This work is detailed in a manuscript currently under review at <i>Science</i>.  I will post more details here as it becomes possible.<br>-->
+</div>
+
+<div class="post"><br>
+  <h1 class="post-title">Past Work in the Wilke Lab</h1>
+  <b>Predicting viral evolution</b><br>
+  By combining techniques from bioinformatics, statistical mechanics, biochemistry, molecular biology, and genetics it may be possible to predict the path of viral escape from host challenges. To accomplish this <img src="../img/force_curve.png" style="display:inline;float:left;margin:5px 10px 0px 0px" width="320">we can narrow the field of possible mutations with evolutionary intuition and bioinformatics, build a data set for training an in silico evolutionary algorithm, and test our resulting predictions experimentally.<br>
+  <br>
+  Our first foray into the field is to use steered molecular dynamics to pull apart the two proteins in a complex several dozens times and calculate the force that was required to successful separate the complex.  <br>
+  <br>
+  The curve is generated with an anchored receptor and a force applied to the viral spike protein in our test system.  The plot shows the average interpolated force over the replicas with p-value for difference in maximum force in the bottom left.  This work combines folks from Wilke, Ellington, and Sawyer lab. This article has been published in <i>PeerJ</i> and is available <a href="http://dx.doi.org/10.7717/peerj.266">here</a>.<br>
+  <br>
+  <b>Biophysical constraints on protein coding sequence evolution </b><br>
+  On a whole genome scale, a direct correlation between relative solvent accessibility (RSA) of sites (amino acids) in proteins and the rate of evolution (measured as rate of non-synonymous versus synonymous substitutions) at that site was established previously <a href="http://mbe.oxfordjournals.org/content/early/2009/07/13/molbev.msp146.short">here</a>, providing a reasonable model for (relatively) neutral mutations.<br>
+  <br>
+  Fitting the rate versus RSA curve one can find sites that differ significantly from neutrality, then, compare the predictions to the current state-of-the-art methods for functional predictions.  Results from this work was published in two separate articles appearing <a href="http://dx.doi.org/10.1093/molbev/mss217">here</a> in <i>Molecular Biology and Evolution</i> and <a href="http://dx.doi.org/10.1098/rstb.2012.0334">here</a> in <i>Philosophical Transactions of the Royal Society B</i>.<br>
+  <img src="../img/ha_plotkin_ave.png" style="display:block;text-align:center">
+  <div style="text-align:left">Red points represent amino acid sites identified in other studies of Hemagglutinin H1. Points that do not fall between show significant deviation from neutrality.  Sites above the dashed line in the preceding plots.</div>
+</div>
+
+<div class="post"><br>
+  <h1 class="post-title">Past Work in the Barrick Lab</h1>
+
+  <b>Population evolutionary simulator</b><br>
+  Written in C++, <a href="http://code.google.com/p/bpopsim/">bpopsim</a>, has the ability to output several useful statistics regarding organismal evolution. It may be reasonable to compare this to something like the relative frequency of simultaneously sweeping mutations in a laboratory evolution experiment.<br>
+  <br>
+  Below are some preliminary results from my test runs with bpopsim. The genotype frequencies plot was assembled and plotted in R.<br>
+  <img src="../img/muller_lod_gray_2.png" style="display:block;text-align:center">
+  <div style="text-align:left">Blue tones show the line of descent to the final dominant genotype. Gray tones represents all lineages that died out.<br>
+</div>
+
+<div class="post"><br>
+  <h1 class="post-title">Past Work in the Sutton Lab</h1>
+  My master's work, in structural biology, was completed in the lab of Dr. Bryan Sutton at Texas Tech University Health Sciences Center in Lubbock, TX. I crystallized several novel constructs of the human proteins Synaptotagmin-1 and Dysferlin; I also used fluorescence spectroscopy to measure the potential for calcium binding of each domain in the proteins.<br>
+</div>
