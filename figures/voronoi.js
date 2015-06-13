@@ -26,8 +26,8 @@ circle {
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
 <script>
 
-var width = 960,
-    height = 500;
+var width = 560,
+    height = 400;
 
 var vertices = d3.range(100).map(function(d) {
   return [Math.random() * width, Math.random() * height];
