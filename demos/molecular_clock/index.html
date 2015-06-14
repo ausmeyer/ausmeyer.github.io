@@ -1,29 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
-	<style>
-		canvas {
-    		position: absolute;
-   			width: 640px;
-    		height: 640px;
-    		margin: 25px 25px 25px 25px;
-    		-webkit-touch-callout: none;
-       		-webkit-user-select: none;
-        	-khtml-user-select: none;
-        	-moz-user-select: none;
-        	-ms-user-select: none;
-        	user-select: none;
-        	outline: none;
-        	border-radius: 25px;        	
-		}
-	</style>
-</head>
+<title>Molecular Clock vs Time</title>
+<style>
+.chart {
 
-<body style="background-color:white">
+}
 
-	<script src="processing.min.js"></script>
-	<canvas datasrc="molecular_clock.pjs" width="640" height="640"></canvas>
-	
-</body>
-</html>
+.main text {
+    font: 16px sans-serif;	
+}
+
+.axis line, .axis path {
+    shape-rendering: crispEdges;
+    stroke: black;
+    fill: none;
+}
+
+circle {
+    fill: steelblue;
+}
+
+</style>
+    <script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+      </head>
+      <body>
+        <script type="text/javascript" src="molecular_clock.js"></script>
+      </body>
+    </html>
