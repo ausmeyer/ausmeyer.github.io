@@ -3,13 +3,11 @@ String[] lines = loadStrings("sample.dat");
     
 void setup () {
 
-    x = 600
-    y = 450
     size(x, y);
     background(255, 255, 255);
     strokeWeight(2);
-    line(20, 430, 430, 580);
-    line(20, 20, 20, 430);
+    line(20, 620, 620, 620);
+    line(20, 20, 20, 620);
     
     //draw();
 }
