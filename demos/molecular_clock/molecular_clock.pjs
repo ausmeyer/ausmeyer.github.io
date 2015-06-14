@@ -6,7 +6,7 @@ void setup () {
     strokeWeight(2);
     line(20, 480, 480, 480);
     line(20, 20, 20, 480);
-    String[] lines = loadStrings("/Users/austin/Desktop/sample.dat");
+    String[] lines = loadStrings("sample.dat");
     
     draw(lines);
 }
