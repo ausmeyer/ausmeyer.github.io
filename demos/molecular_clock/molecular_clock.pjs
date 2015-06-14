@@ -8,8 +8,8 @@ void setup () {
     size(x, y);
     background(255, 255, 255);
     strokeWeight(2);
-    line(20, 430, 580, 580);
-    line(20, 20, 20, 580);
+    line(20, 430, 430, 580);
+    line(20, 20, 20, 430);
     
     //draw();
 }
