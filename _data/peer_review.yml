@@ -1,3 +1,10 @@
+- author: <b>A. G. Meyer</b>, C. O. Wilke
+  year: 2015
+  title: Protein structural determinants of HIV evolution
+  ref: "(Under Review)"
+  link: http://ausmeyer.github.io/hiv_structural_determinants-paper-now
+  text: pre-print blog post
+
 - author: S. A. Kerr, E. L. Jackson, O. I. Lungu, <b>A. G. Meyer</b>, A Demogines, A. D. Ellington, G. Georgiou, C. O. Wilke, S. L. Sawyer
   year: 2015
   title: Computational and functional analysis of the GP1-TfR1 interface reveals host range trade-offs in New-World arenaviruses
@@ -6,9 +13,9 @@
 - author: <b>A. G. Meyer</b>, S. J. Spielman, T. Bedford, C. O. Wilke
   year: 2015
   title: Lack of sequence divergence is a major limitation in quantifying evolution during a viral outbreak
-  ref: "(Under Review at Virus Evolution)"
+  ref: "Virus Evolution (in press)"
 
-- author: <b>A. G. Meyer</b> and C. O. Wilke
+- author: <b>A. G. Meyer</b>, C. O. Wilke
   year: 2015
   title: Geometric constraints dominate the antigenic evolution of influenza H3N2 hemagglutinin
   ref: "PLOS Pathogens 11:e1004940"
