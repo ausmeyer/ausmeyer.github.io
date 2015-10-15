@@ -1,15 +1,16 @@
-- author: <b>A. G. Meyer</b>, C. O. Wilke
-  year: 2015
-  title: The utility of protein structure as a predictor of site-wise dN/dS varies widely among HIV-1 proteins
-  ref: "(In Press, Journal of the Royal Society Interface)"
-  link: http://ausmeyer.github.io/hiv_structural_determinants-paper-now
-  text: pre-print blog post
-
 - author: S. A. Kerr, E. L. Jackson, O. I. Lungu, <b>A. G. Meyer</b>, A Demogines, A. D. Ellington, G. Georgiou, C. O. Wilke, S. L. Sawyer
   year: 2015
   title: Computational and functional analysis of the GP1-TfR1 interface reveals host range trade-offs in New-World arenaviruses
   ref: "(In Press, Journal of Virology)"
 
+- author: <b>A. G. Meyer</b>, C. O. Wilke
+  year: 2015
+  title: The utility of protein structure as a predictor of site-wise dN/dS varies widely among HIV-1 proteins
+  ref: "Journal of the Royal Society Interface 12:20150579"
+  doi: 10.1098/rsif.2015.0579
+  link: http://ausmeyer.github.io/hiv_structural_determinants-paper-now
+  text: pre-print blog post
+  
 - author: <b>A. G. Meyer</b>, S. J. Spielman, T. Bedford, C. O. Wilke
   year: 2015
   title: Time dependence of evolutionary metrics during the 2009 pandemic influenza virus outbreak
