@@ -1,12 +1,19 @@
+- author: C. D. McWhite, <b>A. G. Meyer</b>, C. O. Wilke
+  year: 2016
+  title: Functional sites induce long-range evolutionary constraints in enzymes
+  ref: "(Under Review)"
+  doi: 10.1101/038364
+  
 - author: B. R. Jack, <b>A. G. Meyer</b>, J. Echave, C. O. Wilke
-  year: 2015
+  year: 2016
   title: Functional sites induce long-range evolutionary constraints in enzymes
   ref: "(Under Review)"
 
 - author: S. A. Kerr, E. L. Jackson, O. I. Lungu, <b>A. G. Meyer</b>, A Demogines, A. D. Ellington, G. Georgiou, C. O. Wilke, S. L. Sawyer
   year: 2015
   title: Computational and functional analysis of the GP1-TfR1 interface reveals host range trade-offs in New-World arenaviruses
-  ref: "Journal of Virology (In Press)"
+  ref: "Journal of Virology 89:11643-11653."
+  doi: 10.1128/JVI.01408-15
 
 - author: <b>A. G. Meyer</b>, C. O. Wilke
   year: 2015
