@@ -44,7 +44,7 @@ permalink: /cv/
   <h4 class="post-content">2013-14 &nbsp;&nbsp;&nbsp;&nbsp; Lubbock Free Clinic Leadership Team, TTUHSC.                                   </h4>
   <h4 class="post-content">2011-14 &nbsp;&nbsp;&nbsp;&nbsp; Mensa Testing Coordinator, Lonestar Mensa.                                     </h4>
   <br>
-  Reviewer for:    PLOS Computational Biology, Physical Review X, and ALife
+  Reviewer for:    PLOS Pathogens, PLOS Computational Biology, Molecular Biology and Evolution, Physical Review X, and ALife
 </div>
 
 <div class="post"><br>
@@ -56,52 +56,4 @@ permalink: /cv/
   <h4 class="post-content">2014 &nbsp;&nbsp;&nbsp;&nbsp; AMA Proposed Policy Resolution, <i>Advance Directives During Pregnancy</i>. American Medical Association.                         </h4>
   <h4 class="post-content">2014 &nbsp;&nbsp;&nbsp;&nbsp; TMA Proposed Policy Resolution, <i>Durability of Advance Directives</i>. TexMed Conference.                                       </h4>
   <h4 class="post-content">2013 &nbsp;&nbsp;&nbsp;&nbsp; First Tuesday at The Capitol, Lobbying for the Texas Medical Association.                                                         </h4>
-</div>
-
-<br>
-
-<div class="post">
-  <a class="anchor" id="Invited Talks"></a>
-  <h1 class="post-title">Invited Talks</h1>
-  {% assign count = site.data.invited_talks.size %}
-  
-  <ul class="pub-list">
-    {% assign year = "0000" %}
-    {% for pub in site.data.invited_talks %}
-      {% if year != pub.year %}
-        {% assign year = pub.year %}
-        <li class="pub-year">{{ year | capitalize }}</li>
-      {% endif %}
-      <li>
-        {{ count | minus: forloop.index0 }}. 
-        {{ pub.author }} ({{ pub.year }}). {{ pub.title }}. {{ pub.location }}.<br/>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
-
-<br>
-
-<div class="post">
-  <a class="anchor" id="Poster Presentations"></a>
-  <h1 class="post-title">Poster Presentations</h1>
-  {% assign count = site.data.poster_presentations.size %}
-  
-  <ul class="pub-list">
-    {% assign year = "0000" %}
-    {% for pub in site.data.poster_presentations %}
-      {% if year != pub.year %}
-        {% assign year = pub.year %}
-        <li class="pub-year">{{ year | capitalize }}</li>
-      {% endif %}
-      <li>
-        {{ count | minus: forloop.index0 }}.
-        {% if pub.note != null %}
-          {{ pub.author }} ({{ pub.year }}). {{ pub.title }}. {{ pub.location }}. <b>{{ pub.note }}</b> <br/>
-        {% else %}
-          {{ pub.author }} ({{ pub.year }}). {{ pub.title }}. {{ pub.location }}.<br/>
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
 </div>
