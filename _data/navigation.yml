@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Research
+  url: /research/
+
+- title: CV
+  url: /files/meyer-cv.pdf
+
+- title: Publications
+  url: /publications/
+
+- title: Extras
+  url: /extras/
