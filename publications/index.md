@@ -52,8 +52,7 @@ link-years:
         {% if pub.link %}
           <br/>links: <a href="{{ pub.link }}">{{pub.text}}</a>&nbsp;&nbsp; 
         {% endif %}
-      </li>
-      <br>
+      </li><br>
     {% endfor %}
   </ol>
 
