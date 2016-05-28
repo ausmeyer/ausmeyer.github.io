@@ -8,8 +8,8 @@ share: false
 ### Science
 In general, I work to build predictive models of protein evolution. I am particularly interested in the way protein structure constrains and determines evolution, the evolution and epidemiology of viruses, the way evolution and epidemiology are connected, the tools and models that are used to study evolution, and how large datasets can be used to forecast the emergence and evolution of viruses. 
 <br><br>
-Here is a word cloud generated from the text of my first author papers. I think it does a good job outlining what I worked on during my PhD.
-<div style="display:block;text-align:center"><img src="../images/work_wordcloud.png" width='600px'></div>
+Here is a word cloud generated from the text of my first author papers. I think it does a good job outlining what I worked on during graduate school, postdoc, and medical school.
+<div style="display:block;text-align:center"><img src="../images/work_wordcloud.png" width='500px'></div>
 
 ### Software
 In addition to my scientific research interests, I am interested in scientific computing, open science, and computational statistics. I know and program in Python, R, Bash, and C++ as well as some intermittent Mathematica, Matlab, and Tcl/Tk. In addition, the Wilke lab maintains a public git repository of the one-off tools we've produced for various projects... [https://github.com/clauswilke/WilkeLabProteinEvolutionToolbox](https://github.com/clauswilke/WilkeLabProteinEvolutionToolbox).
