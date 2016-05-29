@@ -12,7 +12,7 @@ Here is a word cloud generated from the text of my publications. I think it does
 <div style="display:block;text-align:center"><img src="../images/work_wordcloud.png" width='500px'></div>
 
 ### Software
-In addition to my scientific research interests, I am interested in scientific computing, open science, and computational statistics. I know and program in Python, R, Bash, and C++ as well as some intermittent Mathematica, Matlab, and Tcl/Tk. In addition, the Wilke lab maintains a public git repository of the one-off tools we've produced for various projects... 
+In addition to my scientific research interests, I am interested in scientific computing, open science, and computational statistics. I know and program in Python, R, Bash, and C++ as well as some intermittent Mathematica, Matlab, and Tcl/Tk. In addition, the Wilke lab maintains a public git repository of the one-off tools we've produced for various projects. 
 <br><br>
 [https://github.com/clauswilke/WilkeLabProteinEvolutionToolbox](https://github.com/clauswilke/WilkeLabProteinEvolutionToolbox).
 <br><br>
