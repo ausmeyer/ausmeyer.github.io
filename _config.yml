@@ -42,7 +42,7 @@ titlecase: true
 # Site owner
 owner:
   name: "Austin Meyer, PhD, MS"
-  avatar: bio-photo.png
+  avatar: bio-photo_small.png
   bio: "MS III at Texas Tech University Health Sciences Center and Visiting Scholar at the University of Texas at Austin."
   email: austin.meyer@utexas.edu
   disqus-shortname:
