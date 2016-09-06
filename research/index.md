@@ -6,7 +6,7 @@ share: false
 ---
 
 ### Science
-In general, I work to build predictive models of protein evolution. I am particularly interested in the way protein structure constrains and determines evolution, the evolution and epidemiology of viruses, the way evolution and epidemiology are connected, the tools and models that are used to study evolution, and how large datasets can be used to forecast the emergence and evolution of viruses. 
+In general, I have worked to build predictive models of protein evolution. I was particularly interested in the way protein structure constrains and determines evolution, the evolution and epidemiology of viruses, the way evolution and epidemiology are connected, the tools and models that are used to study evolution, and how large datasets can be used to forecast the emergence and evolution of viruses. When time allows, I continue to work in this field.
 <br><br>
 Here is a word cloud generated from the text of my publications. I think it does a good job outlining what I worked on during graduate school, postdoc, and medical school.
 <div style="display:block;text-align:center"><img src="../images/work_wordcloud.png" width='500px'></div>
