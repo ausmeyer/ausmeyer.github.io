@@ -9,7 +9,7 @@ I am computational biologist and fourth year medical student. My graduate and po
 <br>  
 For my master's research, I crystallized and solved the structure of C2 domains in synaptotagmin with calcium in the binding pocket. For my doctoral research, I implemented molecular evolutionary models of protein evolution and used them to show that simple protein geometry is a major determinant of influenza virus evolution. As a postdoctoral fellow, I focused on identifying constraints that will predict further evolution of the influenza hemagglutinin and neuraminidase proteins. I also do some work to understand how protein energetics can be used to simulate the evolutionary dynamics of proteins, and occasionally (with little success) try to predict specific adaptive mutations.
 <br>
-To find out about my research interests, and the projects I am currently working on, visit the research page. That page will be revamped shortly.
+To find out about the projects I have worked on, visit the research page. That page will be revamped shortly.
 <br>  
 Follow me on twitter <a href="https://twitter.com/austingmeyer">@austingmeyer</a>
 
