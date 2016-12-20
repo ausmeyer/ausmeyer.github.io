@@ -13,7 +13,7 @@ share: false
 [HIV Structural Determinants](http://meyerlab.org/hiv_structural_determinants-paper-now/)  
 
 ### Lecture Slides
-[Biostats and Epidemiology: Review for USMLE Step 1](http://meyerlab.org/intro-biostats-epi/)  
+[Biostats and Epidemiology: Review for USMLE Step 1](http://meyerlab.org/usmle-biostats-epi/)  
 
 
 
