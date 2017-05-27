@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Evolutionary Virology
+title:            Physician Scientist
 locale:           en_US
 url:
 
@@ -41,7 +41,7 @@ titlecase: true
 
 # Site owner
 owner:
-  name: "Austin Meyer, PhD, MS"
+  name: "Austin Meyer, MD, PhD, MPH, MS"
   avatar: bio-photo_small.png
   bio: "MS IV at Texas Tech University Health Sciences Center and Visiting Scholar at the University of Texas at Austin."
   email: austin.meyer@utexas.edu
