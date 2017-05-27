@@ -5,8 +5,10 @@ permalink: /extras/
 share: false
 ---
 
-### Code and Web Apps
-[My Github has all of the code](https://github.com/ausmeyer)<br><br>
+### Code
+[My Github has all of the code](https://github.com/ausmeyer)
+
+### Web Apps
 [Female and Male Physician Quality Scores](http://meyerapps.org/male_female_example/)  
 [Clinical Biomarkers in Diagnosis of Pneumococcal Pneumonia](http://meyerapps.org/pneumococcal_etiology_hiv/)  
 [Predictive Value of Clinical Tests](http://meyerapps.org/predictive_value_shiny/)  
