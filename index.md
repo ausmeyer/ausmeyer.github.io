@@ -16,4 +16,4 @@ To find out about the projects I have worked on, visit the research page. Also, 
 Follow me on twitter <a href="https://twitter.com/austingmeyer">@austingmeyer</a>
 
 ### Current Affliation
-I am a member of the lab of Dr. <a href="http://wilkelab.org/">Claus Wilke</a> at the University of Texas at Austin.
+Starting June 15th, 2017 I will be a resident in Columbus, OH. If you want to see me, you can schedule an appointment at the South High Primary Care Center.
