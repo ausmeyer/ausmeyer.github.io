@@ -2,7 +2,7 @@
 layout: home
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: columbus_banner.png
+  feature: columbus_banner.jpg
 ---
 
 During 2017-2018, I will be a first year resident physician in the combined program in internal medicine and pediatrics at the Ohio State University and Nationwide Children's Hospital. 
