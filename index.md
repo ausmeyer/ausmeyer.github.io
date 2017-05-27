@@ -16,4 +16,4 @@ To find out about the projects I have worked on, visit the research page. Also, 
 Follow me on twitter <a href="https://twitter.com/austingmeyer">@austingmeyer</a>
 
 ### Current Affliation
-Starting June 15th, 2017 I will be a resident in Columbus, OH. If you want to see me, you can schedule an appointment at the South High Primary Care Center.
+Starting June 15th, 2017 I will be a resident in Columbus, OH. If you are a patient who wants to see me, you can schedule an appointment at the South High Primary Care Center starting in July.
