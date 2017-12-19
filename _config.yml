@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Physician Scientist
+title:            Science and Medicine
 locale:           en_US
 url:
 
@@ -41,7 +41,7 @@ titlecase: true
 
 # Site owner
 owner:
-  name: "Austin Meyer, MD, PhD, MPH, MS"
+  name: "Austin Meyer"
   avatar: bio-photo_small.png
   bio: "Resident Physician at the Ohio State University and National Children's Hospital"
   email: austin.meyer@utexas.edu
