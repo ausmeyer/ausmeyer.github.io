@@ -9,7 +9,7 @@ During 2017-2018, I will be a first year resident physician in the combined prog
 <br>
 My graduate and post doctoral research focused on understanding and predicting the evolution of viral proteins, on protein molecular evolution, and on protein structural biology. However, I enjoy the process of applying quantitative information to solve outstanding research problems in many fields. In addition, I love teaching biostatistics and computational statistics, and finding places where existing data or methods can be applied to adjust traditionally fuzzy clinical reasoning. I also like using new presentation tools and developing web applications to convey my message and make the information more useful to non-experts.
 <br>
-Although I was an experimental biologist in the past, these days my work is entirely computational/analytical. Please no more advertisements offering to make antibodies.
+Although I was an experimental biologist in the past, these days my work is entirely computational/data analytical. Please no more advertisements offering to make antibodies.
 <br>
 To find out about the projects I have worked on, visit the research page. Also, to find slide decks that I have used or web applications see my extras page.
 <br>  
