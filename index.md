@@ -5,9 +5,11 @@ image:
   feature: columbus_banner.jpg
 ---
 
-During 2017-2018, I will be a first year resident physician in the combined program in internal medicine and pediatrics at the Ohio State University and Nationwide Children's Hospital. 
+During 2017-2021, I will a resident physician in the combined program in Internal Medicine and Pediatrics at the Ohio State University and Nationwide Children's Hospital. 
 <br>
-My graduate and post doctoral research focused on understanding and predicting the evolution of viral proteins, on protein molecular evolution, and on protein structural biology. However, I enjoy the process of applying quantitative information to solve outstanding research problems in many fields. In addition, I love teaching biostatistics and computational statistics, and finding places where existing data or methods can be applied to adjust traditionally fuzzy clinical reasoning. I also like using new presentation tools and developing web applications to convey my message and make the information more useful to non-experts.
+My graduate and post doctoral research focused on understanding and predicting the evolution of viral proteins, on protein molecular evolution, and on protein structural biology. Broadly, I am interested in infectious diseases; I enjoy the process of applying mathematical modeling and statistical learning to diverse problems. In particular, I am interested in using diverse data sources to understand infectious diseases and how they interact with populations.
+<br>
+I also love learning and teaching biostatistics and data science. I like finding places where existing data or methods can be applied to ambiguous clinical reasoning. I also like exploring data visualization, using new presentation tools, and developing web applications to make information more useful to non-experts.
 <br>
 Although I was an experimental biologist in the past, these days my work is entirely computational/data analytical. Please no more advertisements offering to make antibodies.
 <br>
