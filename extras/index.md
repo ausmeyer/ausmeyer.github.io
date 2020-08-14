@@ -18,8 +18,8 @@ share: false
 [COVID-19 Aggregate Count and Map](http://meyerlab.org/covid_d3_test)
 
 ### Morning Report
-[The Darkened Band](https://ausmeyer.shinyapps.io/morningreport_03202019/)
-	- [Probability calculator #1 (w/ D-dimer](https://ausmeyer.shinyapps.io/morningreport_03202019/#34)
+[The Darkened Band](https://ausmeyer.shinyapps.io/morningreport_03202019/)  
+	- [Probability calculator #1 (w/ D-dimer](https://ausmeyer.shinyapps.io/morningreport_03202019/#34)  
 	- [Probability calculator #2 (w/ CTPE)](https://ausmeyer.shinyapps.io/morningreport_03202019/#38)
 
 ### Lecture Slides
