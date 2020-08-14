@@ -19,8 +19,8 @@ share: false
 
 ### Morning Report
 [The Darkened Band](https://ausmeyer.shinyapps.io/morningreport_03202019/)  
-	- [Probability calculator #1 (w/ D-dimer](https://ausmeyer.shinyapps.io/morningreport_03202019/#34)  
-	- [Probability calculator #2 (w/ CTPE)](https://ausmeyer.shinyapps.io/morningreport_03202019/#38)
+    - [Probability calculator #1 (w/ D-dimer)](https://ausmeyer.shinyapps.io/morningreport_03202019/#34)  
+    - [Probability calculator #2 (w/ CTPE)](https://ausmeyer.shinyapps.io/morningreport_03202019/#38)
 
 ### Lecture Slides
 [Alpha-, Arena- and Bunyavirus Hemorrhagic Fevers](http://meyerlab.org/lecture_alpha_arena_bunya)  
