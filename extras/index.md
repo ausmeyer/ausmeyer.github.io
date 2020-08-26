@@ -14,6 +14,12 @@ share: false
 [Predictive Value of Clinical Tests](https://ausmeyer.shinyapps.io/predictive_value_shiny)  
 [Statistical versus Biological Significance (code only)](https://github.com/ausmeyer/statistical_biological_significance)  
 
+#### COVID Apps
+[Ohio App (link #1)](http://covidtrackingohio.org/) 
+[Ohio App (link #2)](https://ausmeyer.shinyapps.io/covid_ohio_dash/) 
+[US States App (link #1)](http://covidtrackingus.org/)
+[US States App (link #2)](https://ausmeyer.shinyapps.io/covid_states/)
+
 ### Web apps using javascript and D3
 [COVID-19 Aggregate Count and Map](http://meyerlab.org/covid_d3_test)
 
