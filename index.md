@@ -2,12 +2,12 @@
 layout: home
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: columbus_banner.jpg
+  feature: boston.jpeg
 ---
 
-During 2017-2021, I will a resident physician in the combined program in Internal Medicine and Pediatrics at the Ohio State University and Nationwide Children's Hospital. Since I do not have a lot of free time, this may be a bit outdated at times.
+I am currently a clinical fellow in a combined program for both adult and pediatric Infectious Diseases between Boston Children's Hospital and Beth Israel Deaconess Medical Center. I finished residency in the combined program in Internal Medicine and Pediatrics at the Ohio State University and Nationwide Children's Hospital. My graduate and post doctoral research focused on understanding and predicting the evolution of viral proteins, on protein molecular evolution, and on protein structural biology. 
 <br>
-My graduate and post doctoral research focused on understanding and predicting the evolution of viral proteins, on protein molecular evolution, and on protein structural biology. Broadly, I am interested in infectious diseases; I enjoy the process of applying mathematical modeling and statistical learning to diverse problems. In particular, I am interested in using diverse data sources to understand infectious diseases and how they interact with populations.
+Broadly, I am interested in data science, infectious diseases, evolution, and health informatics; I enjoy the process of applying mathematical modeling and statistical learning to diverse problems. 
 <br>
 I also love learning and teaching biostatistics and data science. I like finding places where existing data or methods can be applied to ambiguous clinical reasoning. I also like exploring data visualization, using new presentation tools, and developing web applications to make information more useful to non-experts.
 <br>
