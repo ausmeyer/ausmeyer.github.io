@@ -9,19 +9,19 @@ share: false
 + [My Github has all of the code](https://github.com/ausmeyer)
 
 ### Spare Projects
-+ [Deaths caused by the February 2021 winter storms in Texas.](http://meyerlab.org/TexasWinterStormDeaths)
++ [Deaths caused by the February 2021 winter storms in Texas](http://meyerlab.org/TexasWinterStormDeaths)
 
 ### Web Apps using Shiny and Rmarkdown
-+ [Female and Male Physician Quality Scores (code only)](https://github.com/ausmeyer/male_female_example)  
-+ [Clinical Biomarkers in Diagnosis of Pneumococcal Pneumonia (code only)](https://github.com/ausmeyer/pneumococcal_etiology_hiv)  
-+ [Predictive Value of Clinical Tests](https://ausmeyer.shinyapps.io/predictive_value_shiny)  
-+ [Statistical versus Biological Significance (code only)](https://github.com/ausmeyer/statistical_biological_significance)  
++ [Female and male physician quality scores (code only)](https://github.com/ausmeyer/male_female_example)  
++ [Clinical biomarkers in diagnosis of pneumococcal pneumonia (code only)](https://github.com/ausmeyer/pneumococcal_etiology_hiv)  
++ [Predictive value of clinical tests](https://ausmeyer.shinyapps.io/predictive_value_shiny)  
++ [Statistical versus biological significance (code only)](https://github.com/ausmeyer/statistical_biological_significance)  
 
-### COVID-19 Shiny Apps
+### COVID-19 Shiny Apps (these are legacy at this point... CDC finally got their web presence up and running)
 + [Ohio App (link #1)](http://covidtrackingohio.org/)  
 + [Ohio App (link #2)](https://ausmeyer.shinyapps.io/covid_ohio_dash/)  
 + [US States App (link #1)](http://covidtrackingus.org/)  
-+ [US States App (link #2)](https://ausmeyer.shinyapps.io/covid_states/)  
++ [US States App (link #2)](https://ausmeyer.shinyapps.io/covid_states/)
 
 <!--(### Web apps using javascript and D3)-->
 <!-- ([COVID-19 Aggregate Count and Map (currently broken due to data aggregator changes)](http://meyerlab.org/covid_d3_test))-->
@@ -30,6 +30,8 @@ share: false
 + [Morning Report: The Darkened Band](https://ausmeyer.shinyapps.io/morningreport_03202019/)  
 	+ [Probability calculator #1 (w/ D-dimer)](https://ausmeyer.shinyapps.io/morningreport_03202019/#34)  
 	+ [Probability calculator #2 (w/ CTPE)](https://ausmeyer.shinyapps.io/morningreport_03202019/#38)
++ [Journal Club: Conservative oxygen therapy during mechanical ventilation](http://meyerlab.org/journalclub_04152020)
++ [Trifecta Lecture: Brief overview of HIV care for residents](http://meyerlab.org/Trifecta_HIV_09252020)
 
 ### Lecture Slides
 + [Alpha-, Arena- and Bunyavirus Hemorrhagic Fevers](http://meyerlab.org/lecture_alpha_arena_bunya)  
