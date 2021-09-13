@@ -8,6 +8,9 @@ share: false
 ### Code
 [My Github has all of the code](https://github.com/ausmeyer)
 
+### Spare Projects
+[Deaths caused by the February 2021 winter storms in Texas.](http://meyerlab.org/TexasWinterStormDeaths)
+
 ### Web Apps using Shiny and Rmarkdown
 [Female and Male Physician Quality Scores (code only)](https://github.com/ausmeyer/male_female_example)  
 [Clinical Biomarkers in Diagnosis of Pneumococcal Pneumonia (code only)](https://github.com/ausmeyer/pneumococcal_etiology_hiv)  
@@ -23,10 +26,10 @@ share: false
 ### Web apps using javascript and D3
 [COVID-19 Aggregate Count and Map (currently broken due to data aggregator changes)](http://meyerlab.org/covid_d3_test)
 
-### Morning Report
-[The Darkened Band](https://ausmeyer.shinyapps.io/morningreport_03202019/)  
-    - [Probability calculator #1 (w/ D-dimer)](https://ausmeyer.shinyapps.io/morningreport_03202019/#34)  
-    - [Probability calculator #2 (w/ CTPE)](https://ausmeyer.shinyapps.io/morningreport_03202019/#38)
+### Residency Things
++ [Morning Report: The Darkened Band](https://ausmeyer.shinyapps.io/morningreport_03202019/)  
+++ [Probability calculator #1 (w/ D-dimer)](https://ausmeyer.shinyapps.io/morningreport_03202019/#34)  
+++ [Probability calculator #2 (w/ CTPE)](https://ausmeyer.shinyapps.io/morningreport_03202019/#38)
 
 ### Lecture Slides
 [Alpha-, Arena- and Bunyavirus Hemorrhagic Fevers](http://meyerlab.org/lecture_alpha_arena_bunya)  
