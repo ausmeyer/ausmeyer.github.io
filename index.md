@@ -5,7 +5,7 @@ image:
   feature: boston.jpeg
 ---
 
-I currently a clinical fellow in a combined program for both adult and pediatric Infectious Diseases between Boston Children's Hospital and Beth Israel Deaconess Medical Center. I finished residency in the combined program in Internal Medicine and Pediatrics at the Ohio State University and Nationwide Children's Hospital. My graduate and post doctoral research focused on understanding and predicting the evolution of viral proteins, on protein molecular evolution, and on protein structural biology. 
+I am currently a clinical fellow in a combined program for both adult and pediatric Infectious Diseases between Boston Children's Hospital and Beth Israel Deaconess Medical Center. I finished residency in the combined program in Internal Medicine and Pediatrics at the Ohio State University and Nationwide Children's Hospital. My graduate and post doctoral research focused on understanding and predicting the evolution of viral proteins, on protein molecular evolution, and on protein structural biology. 
 <br>
 Broadly, I am interested in data science, infectious diseases, evolution, and health informatics; I enjoy the process of applying mathematical modeling and statistical learning to diverse problems. 
 <br>
