@@ -19,7 +19,7 @@ In addition to my scientific research interests, I am interested in scientific c
 If there is any piece of software that seems related to what we do but is not in the repository I may have it laying around or it may be in a github repository for one of our papers.
   
 ### Current Research
-Currently I'm a medical resident. I try to be as involved as I can be with research. My current interests revolve around chronic disease management and care in indigent populations.
+I became re-involvement in research after completing residency in June of 2021. I am now starting new projects to model outbreaks of emergent viruses. Hopefully, more to come in the next months and years.
 
 ### Past Research in the Wilke Lab
  
