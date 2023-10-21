@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Simples
-  site_tagline: A super simple blogging theme for Jekyll.
+  site_title: Meyer Lab
+  site_tagline: A place for my research portfolio.
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -10,12 +10,10 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
+    - title: 'Home'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
-    - title: 'About'
-      url: '/about'
+    - title: 'Extras'
+      url: '/extras'
     - title: 'Contact'
       url: '/contact'
 
