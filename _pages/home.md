@@ -1,7 +1,8 @@
 ---
-title: Home
-featured_image: /images/austin.jpg
+title: Home 
 ---
+
+![](/images/austin.jpg)
 
 I currently serve as an Internal Medicine and Pediatric Hospitalist at Baylor Scott and White Health. Additionally, my research involves analyzing viral genome data and forecasting infectious disease outbreaks. I also have a longstanding personal interest in  the intersection of infectious diseases, public health, and society. Lately, my primary focus has been on leveraging machine learning techniques to forecast outbreaks of the Influenza and Dengue viruses. For Influenza, I collaborate with a team from Northeastern University and Harvard School of Public Health on the CDC's Flusight project. In terms of Dengue, I employ statistical and ensemble methods to predict Dengue cases across more than 170 cities or regions in various tropical countries.
 
