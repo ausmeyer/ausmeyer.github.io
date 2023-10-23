@@ -1,7 +1,7 @@
 site: MeyerLab
 
 url: meyerlab.org
-baseurl: /home
+baseurl: 
 
 collections:
   pages:
