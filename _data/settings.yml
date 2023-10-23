@@ -11,11 +11,13 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Home'
-      url: '/'
+      url: '/home'
     - title: 'Extras'
       url: '/extras'
-    - title: 'Contact'
-      url: '/contact'
+    - title: 'About'
+      url: '/about'
+    - title: 'CV'
+      url: 'CV.pdf'
 
 grid_settings:
   grid_spacing: 10
