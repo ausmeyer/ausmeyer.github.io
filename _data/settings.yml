@@ -10,14 +10,12 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
-      url: '/'
     - title: 'About'
       url: '/about'
     - title: 'Extras'
       url: '/extras'
     - title: 'CV'
-      url: 'images/CV.pdf'
+      url: '/images/CV.pdf'
 
 grid_settings:
   grid_spacing: 10
