@@ -1,5 +1,5 @@
 ---
-title:
+title: 
 ---
 
 ![](/images/austin.jpg)
