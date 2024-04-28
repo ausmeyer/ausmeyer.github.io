@@ -1,7 +1,7 @@
 basic_settings:
   site_title: Meyer Lab
-  site_tagline: A place for my research.
-  favicon_image: /images/new_favicon.jpg
+  site_tagline: 
+  favicon_image: /images/new_favicon.png
 
 header_settings:
   avatar_image: /images/me.jpg
