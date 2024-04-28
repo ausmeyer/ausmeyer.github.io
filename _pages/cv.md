@@ -1,4 +1,4 @@
 ---
 ---
 
-<a href="images/CV.pdf">Curriculum Vitae</a>.
+<a href="images/CV.pdf">Curriculum Vitae</a>
