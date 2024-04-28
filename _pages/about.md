@@ -8,7 +8,7 @@ I am a physician-scientist currently serving as a Medical Officer and Data Analy
 
 My research focuses on analyzing viral genome data and forecasting infectious disease outbreaks, with a particular emphasis on leveraging machine learning techniques to predict outbreaks of Influenza and Dengue viruses. I collaborate with teams from Northeastern University, Harvard School of Public Health, and previously Johnson & Johnson on influenza hospitalization forecasts for the CDC's FluSight project and Dengue outbreak forecasts across multiple countries.
 
-Previously, I was an Instructor at Harvard Medical School and a combined Internal Medicine and Pediatric Hospitalist at Beth Israel Deaconess Medical Center and Boston Children's Hospital. I completed a combined residency in Internal Medicine and Pediatrics at The Ohio State University and Nationwide Children's Hospital with completed an HIV Medicine certification and an advanced competency in Global Health.
+Previously, I was an Instructor at Harvard Medical School and a combined Internal Medicine and Pediatric Hospitalist at Beth Israel Deaconess Medical Center and Boston Children's Hospital. I completed a combined residency in Internal Medicine and Pediatrics at The Ohio State University and Nationwide Children's Hospital where I concurrently completed an HIV Medicine certification and an advanced competency in Global Health.
 
 During my graduate and postdoctoral studies, I investigated viral evolution, protein molecular evolution, and protein structural biology. I hold a PhD in Computational Biochemistry from the University of Texas at Austin, an MD from Texas Tech University Health Sciences Center, and three master's degrees in Analytics, Public Health, and Biotechnology respectively.
 
