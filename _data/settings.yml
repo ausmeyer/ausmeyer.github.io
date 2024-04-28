@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Extras'
       url: '/extras'
     - title: 'CV'
-      url: '/images/CV.pdf'
+      url: '/cv'
 
 grid_settings:
   grid_spacing: 10
