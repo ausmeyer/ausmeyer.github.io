@@ -1517,15 +1517,27 @@
                             function refreshYearDividers() {
                                 publicationList.querySelectorAll('.year-divider').forEach(el => el.remove());
                                 const items = Array.from(publicationList.querySelectorAll('li:not(.year-divider)'));
-                                let lastYear = null;
+                                let lastGroupKey = null;
                                 items.forEach(item => {
                                     if (item.style.display === 'none') return;
+                                    const status = item.dataset.status;
                                     const year = item.dataset.year;
-                                    if (year && year !== lastYear) {
-                                        lastYear = year;
+                                    let groupKey, label;
+                                    if (status === 'in-review') {
+                                        groupKey = 'in-review';
+                                        label = 'In Review';
+                                    } else if (status === 'in-press') {
+                                        groupKey = 'in-press';
+                                        label = 'In Press';
+                                    } else {
+                                        groupKey = year;
+                                        label = year;
+                                    }
+                                    if (groupKey && groupKey !== lastGroupKey) {
+                                        lastGroupKey = groupKey;
                                         const divider = document.createElement('li');
                                         divider.className = 'year-divider';
-                                        divider.innerHTML = `<div class="flex items-center gap-3 py-1 px-1"><span class="text-sm font-bold text-slate-500 dark:text-slate-400">${year}</span><div class="flex-1 h-px bg-slate-200 dark:bg-slate-600"></div></div>`;
+                                        divider.innerHTML = `<div class="flex items-center gap-3 py-1 px-1"><span class="text-sm font-bold text-slate-500 dark:text-slate-400">${label}</span><div class="flex-1 h-px bg-slate-200 dark:bg-slate-600"></div></div>`;
                                         publicationList.insertBefore(divider, item);
                                     }
                                 });
