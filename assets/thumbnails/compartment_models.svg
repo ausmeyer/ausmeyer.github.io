@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#g)"/>
+  <circle cx="680" cy="70" r="120" fill="white" fill-opacity="0.08"/>
+  <circle cx="80" cy="400" r="100" fill="white" fill-opacity="0.06"/>
+  <g transform="translate(400,225)">
+    <g transform="translate(-72,-40)">
+      <circle cx="24" cy="40" r="18" fill="none" stroke="white" stroke-width="7"/>
+      <circle cx="72" cy="40" r="18" fill="none" stroke="white" stroke-width="7"/>
+      <circle cx="120" cy="40" r="18" fill="none" stroke="white" stroke-width="7"/>
+      <path d="M42 40 H54" stroke="white" stroke-width="7" stroke-linecap="round"/>
+      <path d="M90 40 H102" stroke="white" stroke-width="7" stroke-linecap="round"/>
+      <polygon points="54,40 46,34 46,46" fill="white"/>
+      <polygon points="102,40 94,34 94,46" fill="white"/>
+      <text x="24" y="45" text-anchor="middle" fill="white" font-family="system-ui,sans-serif" font-size="14" font-weight="700">S</text>
+      <text x="72" y="45" text-anchor="middle" fill="white" font-family="system-ui,sans-serif" font-size="14" font-weight="700">I</text>
+      <text x="120" y="45" text-anchor="middle" fill="white" font-family="system-ui,sans-serif" font-size="14" font-weight="700">R</text>
+    </g>
+  </g>
+</svg>
